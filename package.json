@@ -19,7 +19,7 @@
   }
 }
 
-"homepage": "https://tom.github.io/repo-name",
+"homepage": "https://tom.github.io/src/App.vue",
 "scripts": {
   "deploy": "gh-pages -d dist",
 }
