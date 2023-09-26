@@ -19,7 +19,7 @@
   }
 }
 
-"homepage": "https://yourusername.github.io/repo-name", // Replace with your GitHub username and repository name
+"homepage": "https://tom.github.io/repo-name",
 "scripts": {
   // ...
   "deploy": "gh-pages -d dist",
