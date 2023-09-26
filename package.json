@@ -21,7 +21,5 @@
 
 "homepage": "https://tom.github.io/repo-name",
 "scripts": {
-  // ...
   "deploy": "gh-pages -d dist",
-  // ...
 }
