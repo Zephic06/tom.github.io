@@ -19,7 +19,7 @@
   }
 }
 
-"homepage": "https://tom.github.io/src/App.vue",
+"homepage": "https://zephic06.github.io/tom.github.io/",
 "scripts": {
   "deploy": "gh-pages -d dist",
 }
