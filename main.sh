@@ -1,5 +1,5 @@
 npm install -g @vue/cli
-cd srs
+cd src
 npm run build
 git init
 git add .
