@@ -62,7 +62,7 @@ aside {
     display: flex;
     flex-direction: column;
     width: calc(2rem + 32px);
-    min-height: 100vh;
+    min-height: 125vh;
     overflow: hidden;
     padding: 1rem;
 
@@ -106,7 +106,7 @@ aside {
             &:hover{
                 .material-symbols-outlined {
                     color: var(--primary);
-                    transform: translateX(0.5rem);
+                    transform: translateY(0.5rem);
                 }
             }
         }

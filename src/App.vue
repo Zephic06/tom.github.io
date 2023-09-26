@@ -23,15 +23,29 @@ import Sidebar from './components/Sidebar.vue'
   --sidebar-width: 300px;
 }
 
+::-webkit-scrollbar {
+  width: 8px; /* Width of the scrollbar */
+}
+
+::-webkit-scrollbar-thumb {
+  background: var(--dark-alt);
+  border-radius: 6px; 
+}
+
+::-webkit-scrollbar-track {
+  background: var(--light);
+}
+
 * {
   margin: 0;
   padding: 0;
   box-sizing: border-box;
-  font-family: sans-serif;
+  font-family: 'Raleway', sans-serif;
 }
 
+
 body{
-  background: var(--grey-alt);
+  background: var(--light);
 }
 
 button {
