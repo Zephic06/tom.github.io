@@ -12,20 +12,27 @@
         <li>1. Binaire cijfers (bits) </li>
         <button class="dropbtn">
         <span class="material-symbols-outlined">expand_more</span>
-        </button>    
+        </button> 
+        <p class="dropdowntekst">In het binaire stelsel worden individuele cijfers "bits" genoemd, een afkorting van "binary digits". Elk bit kan slechts twee waarden aannemen: 0 of 1. Een enkel bit kan worden gebruikt om een eenvoudige ja/nee- of aan/uit-status te vertegenwoordigen.</p>   
         <li>2. Binair tellen</li> 
         <button class="dropbtn">
         <span class="material-symbols-outlined">expand_more</span>
         </button>
+        <p class="dropdowntekst"> Net zoals in het decimale stelsel, waarin cijfers worden opgeteld en vermenigvuldigd om getallen te vormen, kunnen binaire cijfers worden samengevoegd om binaire getallen te vormen. Hier volgt een voorbeeld van een binaire telling: </p>
         <li>3. Binaire operaties</li> 
         <button class="dropbtn">
         <span class="material-symbols-outlined">expand_more</span>
         </button>
+        <p class="dropdowntekst"> In het binaire stelsel kunnen verschillende wiskundige en logische bewerkingen worden uitgevoerd met behulp van 0 en 1. Dit omvat optellen, aftrekken, vermenigvuldigen, delen en logische bewerkingen zoals AND, OR en XOR. </p>
         <li>4. Data opslag</li> 
         <button class="dropbtn"> 
         <span class="material-symbols-outlined">expand_more</span>
         </button>
+        <p class="dropdowntekst">Computers gebruiken binaire getallen om gegevens op te slaan en te verwerken. Tekst, afbeeldingen, geluid en andere vormen van informatie worden omgezet in binaire codes voordat ze in een computer worden opgeslagen. Elke letter, elk symbool of elk getal wordt vertegenwoordigd door een reeks binaire cijfers met behulp van een tekencodering zoals ASCII of Unicode.</p>
+        <button class="btn"><a href="https://games.penjee.com/binary-bonanza/">Meer oefenen</a></button>
         </div>
+
+
     </div>
 
     </main>
