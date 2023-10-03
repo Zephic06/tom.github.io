@@ -37,3 +37,15 @@
 
     </main>
 </template>
+
+<style>
+
+.binair-body{
+    display: flex;
+    flex: 0 0 1;
+}
+
+
+
+
+</style>
