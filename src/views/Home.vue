@@ -9,12 +9,12 @@
         <div class="hobbies">
             <div class="text-hobbies"><h1>hobbies</h1></div>
             <div class="container-1">
-                <h1>Hobbie 1</h1>
-                <p>Lorem, ipsum dolor sit amet consectetur adipisicing elit. Ab excepturi dolores quaerat alias quisquam? Iure assumenda consequuntur aliquam obcaecati tempore qui suscipit dolore a. Perspiciatis?</p>
+                <h1>Sportschool</h1>
+                <p>Ik ga naar de sportschool om mijn fysieke gezondheid te verbeteren, kracht op te bouwen, stress te verminderen en mijn algemeen welzijn te bevorderen.</p>
             </div>
             <div class="container-2">
-                <h1>Hobbie 2</h1>
-                <p>Lorem, ipsum dolor sit amet consectetur adipisicing elit. Ab excepturi dolores quaerat alias quisquam? Iure assumenda consequuntur aliquam obcaecati tempore qui suscipit dolore a. Perspiciatis?</p>
+                <h1>Hardlopen</h1>
+                <p>Ik hardloop om mijn conditie te verbeteren, stress te verminderen, gewicht te beheersen, energie te vergroten en te genieten van de buitenlucht en lichaamsbeweging.</p>
             </div>
             <div class="container-3">
                 <h1>Hobbie 3</h1>

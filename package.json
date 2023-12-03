@@ -18,8 +18,3 @@
     "vite": "^4.4.5"
   }
 }
-
-"homepage": "https://zephic06.github.io/tom.github.io/",
-"scripts": {
-  "deploy": "gh-pages -d dist",
-}
